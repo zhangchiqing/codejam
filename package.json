@@ -1,0 +1,27 @@
+{
+  "name": "codejam",
+  "version": "1.0.0",
+  "description": "Google Code Jam Template with file watch and test cases",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangchiqing/codejam.git"
+  },
+  "keywords": [
+    "google",
+    "codejam",
+    "template"
+  ],
+  "author": "Chiqing Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangchiqing/codejam/issues"
+  },
+  "homepage": "https://github.com/zhangchiqing/codejam",
+  "dependencies": {
+    "line-reader": "^0.2.4"
+  }
+}
