@@ -23,6 +23,7 @@
   "homepage": "https://github.com/zhangchiqing/codejam",
   "dependencies": {
     "line-reader": "^0.2.4",
+    "rx": "^2.5.2",
     "underscore": "^1.8.3"
   }
 }
